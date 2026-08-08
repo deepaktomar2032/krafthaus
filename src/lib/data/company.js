@@ -6,8 +6,7 @@ export const company = {
     across online marketplaces and direct-to-consumer storefronts, handling everything from sourcing and
     storefront development to fulfillment and customer experience.`,
   email: 'contact@krafthausgroup.com',
-  // PLACEHOLDER — replace with the real registered business phone number before publishing
-  phone: '',
+  phone: '+1 (415) 851-6757',
   address: {
     street: '30 N Gould St Ste 100',
     cityStateZip: 'Sheridan, WY 82801',
