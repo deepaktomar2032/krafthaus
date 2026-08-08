@@ -7,11 +7,10 @@ export const company = {
     storefront development to fulfillment and customer experience.`,
   email: 'contact@krafthausgroup.com',
   // PLACEHOLDER — replace with the real registered business phone number before publishing
-  phone: '+1 (302) 555-0100',
-  // PLACEHOLDER — replace with the real registered business address before publishing
+  phone: '',
   address: {
-    street: '123 Market Street, Suite 400',
-    cityStateZip: 'Wilmington, DE 19801',
+    street: '30 N Gould St Ste 100',
+    cityStateZip: 'Sheridan, WY 82801',
     country: 'United States'
   },
   foundedYear: 2026
