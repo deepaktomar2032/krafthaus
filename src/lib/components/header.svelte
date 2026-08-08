@@ -4,13 +4,13 @@
 
 <header>
   <nav class="container">
-    <a class="logo-link" href="#top" aria-label="Krafthaus home">
+    <a class="logo-link" href="/#top" aria-label="Krafthaus home">
       <Logo />
     </a>
     <div class="links">
-      <a href="#about">About</a>
-      <a href="#services">Services</a>
-      <a href="#contact" class="cta">Contact</a>
+      <a href="/#about">About</a>
+      <a href="/#services">Services</a>
+      <a href="/#contact" class="cta">Contact</a>
     </div>
   </nav>
 </header>

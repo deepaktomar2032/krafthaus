@@ -30,6 +30,10 @@
 
     <div class="bottom-row">
       <div>© {currentYear} {company.legalName}. All rights reserved.</div>
+      <div class="legal-links">
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/terms">Terms &amp; Conditions</a>
+      </div>
     </div>
   </div>
 </footer>
@@ -98,7 +102,26 @@
   }
 
   .bottom-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
     font-size: 0.82rem;
     color: rgba(255, 255, 255, 0.55);
+  }
+
+  .legal-links {
+    display: flex;
+    gap: 20px;
+
+    a {
+      color: rgba(255, 255, 255, 0.55);
+      text-decoration: none;
+
+      &:hover {
+        color: #ffffff;
+      }
+    }
   }
 </style>
